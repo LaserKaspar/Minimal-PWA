@@ -1,0 +1,17 @@
+{
+    "short_name": "Minimal PWA",
+    "name": "Minimal PWA",
+    "description": "All you need to get a \"Please install me\" popup on Chrome and make the app installable.",
+    "icons": [
+      {
+        "src": "https://via.placeholder.com/512",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#3367D6"
+  }
