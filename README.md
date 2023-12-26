@@ -9,3 +9,4 @@ If you have any questions don't hesitate to open an issue.
 ## Ressources
 
 - [web.dev](https://web.dev/explore/progressive-web-apps?hl=de)
+- [manual install trigger - developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/How_to/Trigger_install_prompt)
